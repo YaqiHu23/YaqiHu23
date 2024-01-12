@@ -1,16 +1,17 @@
 ### Hi there 👋
 
-<!--
-**YaqiHu23/YaqiHu23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
+This is Yaqi Hu, currently a master student at University of Southern California
+- My research interests are
+  - Machine Learning / Deep Learning
+  - Anomaly Detection
+- I'm currently working as DSCI-552, Machine Learning for Data Science Course Producer
+- I’m currently focus on multimodal anomaly detection using RNA/ATAC data
+- I’m looking to collaborate on related research projects
+- How to reach me: yaqihu@usc.edu
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![YaqiHu23's GitHub stats](https://github-readme-stats.vercel.app/api?username=YaqiHu23)](https://github.com/YaqiHu23/github-readme-stats)
+
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/YaqiHu23/github-readme-quotes)
+
+
