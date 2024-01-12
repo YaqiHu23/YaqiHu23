@@ -11,7 +11,6 @@ This is Yaqi Hu, currently a master student at University of Southern California
 - How to reach me: yaqihu@usc.edu
 
 [![YaqiHu23's GitHub stats](https://github-readme-stats.vercel.app/api?username=YaqiHu23)](https://github.com/YaqiHu23/github-readme-stats)
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YaqiHu23&hide_title=true&hide_border=true&layout=compact&langs_count=6)](https://github.com/YaqiHu23/github-readme-stats)
 
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/YaqiHu23/github-readme-quotes)
